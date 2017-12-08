@@ -2,7 +2,6 @@
 
 An Apparition of her lover She recognizes with dismay;
 and later on she will discover that he himself had died today.
-<<<<<<< HEAD
 
 The Effigy got up with clothing
 Abstracted from the victim's room
@@ -15,9 +14,12 @@ By low degrees his reason moulders, The sun has long since burnt him black.
 The Lazar, blessed with an appearanceEnough to give the strongest qualms, 
 Has little need of perseverance in promting a display of alms.
 
+The Proctor buys a pupil ices,
+And hopes the boy will not resist
+When he attempts to practise vices
+Few people even know exist.
+
 The Quarry, fleeing from the outing,
 Sinks panting in the reeds and mud:
 And hearkens to the distant shouting
 That tells him they are out for blood
-
->>>>>>> origin/master
