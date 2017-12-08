@@ -3,6 +3,11 @@
 An Apparition of her lover She recognizes with dismay;
 and later on she will discover that he himself had died today.
 
+The Drudge expends her life in mopping,
+	In emptying and filling pails;
+And She will do so, never stopping,
+	Until her strength entirely fails.
+
 The Effigy got up with clothing
 Abstracted from the victim's room
 Is raised aleft to cheers of loathing
@@ -32,3 +37,4 @@ The Suicide, as she is falling,
 Illuminated by the moon,
 Regrets her act, and finds appalling
 The thought she will be dead so soon.
+
