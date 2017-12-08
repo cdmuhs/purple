@@ -2,7 +2,11 @@
 
 An Apparition of her lover She recognizes with dismay;
 and later on she will discover that he himself had died today.
-<<<<<<< HEAD
+
+The Drudge expends her life in mopping,
+	In emptying and filling pails;
+And She will do so, never stopping,
+	Until her strength entirely fails.
 
 The Effigy got up with clothing
 Abstracted from the victim's room
@@ -20,4 +24,3 @@ Sinks panting in the reeds and mud:
 And hearkens to the distant shouting
 That tells him they are out for blood
 
->>>>>>> origin/master
