@@ -2,7 +2,6 @@
 
 An Apparition of her lover She recognizes with dismay;
 and later on she will discover that he himself had died today.
-<<<<<<< HEAD
 
 The Effigy got up with clothing
 Abstracted from the victim's room
@@ -20,4 +19,7 @@ Sinks panting in the reeds and mud:
 And hearkens to the distant shouting
 That tells him they are out for blood
 
->>>>>>> origin/master
+The Suicide, as she is falling,
+Illuminated by the moon,
+Regrets her act, and finds appalling
+The thought she will be dead so soon.
